@@ -1,0 +1,20 @@
+
+t                13/02/2023 14:49
+                Teste QA Premium
+------------------------------------------------
+Pedido 3
+------------------------------------------------
+Itens: 
+(1) Batata frita                        R$ 35,90
+                        
+------------------------------------------------
+Cliente:
+Cliente: Gabi
+Telefone: (31) 9 9454-2999
+                        
+Entrega: Vem buscar para levar
+                        
+------------------------------------------------
+Pagamento:
+Forma de Pagamento: CarttÆo
+                        !{bE
