@@ -1,4 +1,9 @@
 import socket
+import PySimpleGUI as sg
+
+# Layout
+
+
 while True:
         
     ip = '127.0.0.2'
