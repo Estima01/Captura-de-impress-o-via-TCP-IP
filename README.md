@@ -11,4 +11,5 @@ Após isso, antes de enviar para impressão o conteudo em seu sistema, aplicativ
 Neste caso, ele faz um filtro dos comandos que, na impressora, seriam de espaçamento, podendo variar de sistema pra sistema.
 E por fim ele salva em um TXT.
 <br>
-![image](https://user-images.githubusercontent.com/62814826/218541494-07b19f26-936f-4d2f-af0f-dc3a4fdb21e0.png)
+![image](https://user-images.githubusercontent.com/62814826/221083313-77a83e85-6e68-4c65-b41c-f6f2e1d19dad.png)
+
