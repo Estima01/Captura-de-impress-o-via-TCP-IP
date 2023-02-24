@@ -1,14 +1,26 @@
-# Captura-de-impress-o-via-TCP-IP
-Um filtro de rede na qual capta o arquivo enviado para a impressora via TCP/IP e escreve em TXT, para testes de impressão sem precisar ter uma impressora
-<br>
+# Captura de impressão via TCP/IP
+
+<p>Um filtro de rede na qual capta o arquivo enviado para a impressora via TCP/IP e escreve em TXT, para testes de impressão sem precisar ter uma impressora
+</p>
 <h2>Como configurar</h2>
-Para você capturar o que esta sendo enviado para impressão e não tem a impressora especifica (nesse caso da imagem, é de uma impressora não-fical), você deverar criar uma impressora com drivers genericos e criar uma porta TCP/IP. No código é criada uma faixa 127.0.0.2 e a porta é de acordo com a que o sistema seleciona, sendo informado na tela antes de concluir a criação da porta.
+<p>O sistema de captura de impressão via TCP/IP consiste em ficar escutando uma determinada faixa e porta, na qual quando é enviado uma comanda de impressão, ela captura e printa na tela, não precisando assim de uma impressora fisica de fato para testar o envio da mesma.
+</p>
+<p>Para utilizar, basta indicar seu prefixo e porta que se comunica, como na imagem ilustrada. Caso os campos estejam vazios, sera sinalizado no campo "Estado:" que não foi preenchido devidamente. Caso preencha corretamente ele irá conectar e ficar escutando a faixa até uma impressão ser enviada.
+</p>
+<p>Após ele ter capturado e mostrado ele ira desconectar, para escutar novamente basta clicar em "Conectar" novamente que ele ira estabelecer a conexão novamente.</p>
 
-Em seguida, no sistema de impressão do seu aplicativo que deseja capturar, selecione a impressora criada.
+![image](https://user-images.githubusercontent.com/62814826/221083313-77a83e85-6e68-4c65-b41c-f6f2e1d19dad.png)
 
-Após isso, antes de enviar para impressão o conteudo em seu sistema, aplicativo, deve rodar o algoritmo para que ele fique escutando a porta, e em seguida enviar para impressão.
+<h2>Bibliotecas usadas</h2>
 
-Neste caso, ele faz um filtro dos comandos que, na impressora, seriam de espaçamento, podendo variar de sistema pra sistema.
-E por fim ele salva em um TXT.
+<strong>PySimpleGUIWx</strong>
 <br>
-![image](https://user-images.githubusercontent.com/62814826/218541494-07b19f26-936f-4d2f-af0f-dc3a4fdb21e0.png)
+pip install PySimpleGUIWx
+
+<strong>Socket</strong>
+
+pip install socket
+<br>
+pip install pysocket
+
+<strong>Time</strong>
