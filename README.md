@@ -11,3 +11,13 @@
 
 ![image](https://user-images.githubusercontent.com/62814826/221083313-77a83e85-6e68-4c65-b41c-f6f2e1d19dad.png)
 
+<h2>Bibliotecas usadas</h2>
+
+<strong>PySimpleGUIWx</strong>
+pip install PySimpleGUIWx
+
+<strong>Socket</strong>
+pip install socket
+pip install pysocket
+
+<strong>Time</strong>
