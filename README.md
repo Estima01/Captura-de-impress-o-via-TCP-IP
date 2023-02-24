@@ -14,10 +14,13 @@
 <h2>Bibliotecas usadas</h2>
 
 <strong>PySimpleGUIWx</strong>
+<br>
 pip install PySimpleGUIWx
 
 <strong>Socket</strong>
+
 pip install socket
+<br>
 pip install pysocket
 
 <strong>Time</strong>
