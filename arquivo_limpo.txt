@@ -1,20 +1,18 @@
 
-t                13/02/2023 14:49
-                Teste QA Premium
+t                06/12/2021 16:17
+                Anota AI Delivery
 ------------------------------------------------
-Pedido 3
+Pedido 0
 ------------------------------------------------
 Itens: 
-(1) Batata frita                        R$ 35,90
-                        
-------------------------------------------------
-Cliente:
-Cliente: Gabi
-Telefone: (31) 9 9454-2999
-                        
-Entrega: Vem buscar para levar
-                        
-------------------------------------------------
-Pagamento:
-Forma de Pagamento: CarttÆo
-                        !{bE
+(1) Item Teste                          R$ 10,00
+   OBS: ObservatÆo teste.
+                    --------
+(1) Item Teste 2                        R$ 20,00
+                    --------
+(1) Item Teste 3                        R$ 30,00
+   (1) Adicional Teste                  R$ 40,00
+                    --------
+(1) Item Teste 4                        R$ 40,00
+   (1) Combo Teste 1                     R$ 5,00
+   (1) Combo Teste 2
