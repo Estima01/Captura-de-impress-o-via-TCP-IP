@@ -12,7 +12,7 @@ layout = [
      sg.Button('Sair'),
      sg.Text('Estado: '), sg.Text('Desconectado', key='estado', size=(10, 2))],
      [sg.Text('Captura Impressão Bluetooth'), sg.Button('Conectar Bluetooth')],
-     [sg.Multiline(size=(30, 20), key='output')]
+     [sg.Multiline(size=(34, 22), key='output')]
 ]
 
 # Janela
@@ -46,10 +46,9 @@ while True:
         conn, addr = s.accept()
 
         
-        print_signal= conn.recv(1024).decode("ISO-8859-1")
-
+        print_signal= conn.recv(1073741824).decode("ISO-8859-1")
         for i in print_signal:
-            with open("limpador.txt", "a", encoding="utf-8") as myfile:
+            with open("limpador.txt", "a") as myfile:
                 
                 if i == '\x00':
                     myfile.write('')
@@ -197,7 +196,7 @@ while True:
         conn, addr = server_sock.accept()
         janela.FindElement('estado').Update('Conectado Bluetooth')
         
-        data = conn.recv(1024).decode("ISO-8859-1")
+        data = conn.recv(1073741824).decode("ISO-8859-1")
         
         for i in data:
             with open("limpador.txt", "a", encoding="utf-8") as myfile:

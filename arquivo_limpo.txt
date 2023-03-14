@@ -1,1 +1,1 @@
-aTestando impressao
+a14/03/2023 10:20aTeste QA Premiuma--------------------------------aPedido 12a--------------------------------aItens:(1) Pizza brotinho ma   R$ 35,90argheritaaa--------------------------------aCliente: ClienteaTelefone: (53) 9 9959-8299aaEntrega: Vem buscar para levaraa--------------------------------aForma de Pagamento: DinheiroaSubtotal:               R$ 35,90Total:                  R$ 35,90aTroco para:          Nao informaaa--------------------------------aaPowered By: Anota AIaAcesse: https://anota.ai
