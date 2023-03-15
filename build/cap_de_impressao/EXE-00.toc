@@ -1,0 +1,278 @@
+('C:\\Users\\FS '
+ 'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\dist\\cap_de_impressao.exe',
+ True,
+ False,
+ False,
+ 'C:\\Users\\FS '
+ 'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="cap_de_impressao" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\FS '
+ 'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\cap_de_impressao.pkg',
+ [('PYZ-00.pyz',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('men',
+   'C:\\Users\\FS RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\men.py',
+   'PYSOURCE'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom310.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pythoncom310.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes310.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pywintypes310.dll',
+   'BINARY'),
+  ('_decimal',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('win32trace',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('markupsafe._speedups',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\markupsafe\\_speedups.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_winxptheme',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\_winxptheme.pyd',
+   'EXTENSION'),
+  ('wx._stc',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\_stc.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._adv',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\_adv.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._html',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\_html.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._msw',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\_msw.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx.siplib',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\siplib.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('wx._core',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\_core.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('wx\\wxmsw32u_stc_vc140_x64.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\wxmsw32u_stc_vc140_x64.dll',
+   'BINARY'),
+  ('wx\\wxbase32u_vc140_x64.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\wxbase32u_vc140_x64.dll',
+   'BINARY'),
+  ('wx\\wxmsw32u_core_vc140_x64.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\wxmsw32u_core_vc140_x64.dll',
+   'BINARY'),
+  ('wx\\vcruntime140_1.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('wx\\wxmsw32u_html_vc140_x64.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\wxmsw32u_html_vc140_x64.dll',
+   'BINARY'),
+  ('wx\\msvcp140.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\MSVCP140.dll',
+   'BINARY'),
+  ('wx\\wxbase32u_net_vc140_x64.dll',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\wx\\wxbase32u_net_vc140_x64.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\FS '
+   'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_de_impressao\\base_library.zip',
+   'DATA'),
+  ('PySimpleGUIWx\\PySimpleGUIWx.py',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PySimpleGUIWx\\PySimpleGUIWx.py',
+   'DATA'),
+  ('PySimpleGUIWx\\__init__.py',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PySimpleGUIWx\\__init__.py',
+   'DATA'),
+  ('PySimpleGUIWx\\__pycache__\\__init__.cpython-310.pyc',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PySimpleGUIWx\\__pycache__\\__init__.cpython-310.pyc',
+   'DATA'),
+  ('PySimpleGUIWx\\__pycache__\\PySimpleGUIWx.cpython-310.pyc',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PySimpleGUIWx\\__pycache__\\PySimpleGUIWx.cpython-310.pyc',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1678885752,
+ [('run.exe',
+   'C:\\Users\\FS '
+   'RENTAL\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
+   'EXECUTABLE')])

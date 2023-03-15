@@ -300,7 +300,7 @@ while True:
         conn.close()
         janela.FindElement('estado').Update('Desconectado')
         server_sock.close()
-server_sock.close()
+
 
 
 
