@@ -300,8 +300,8 @@ while True:
         conn.close()
         janela.FindElement('estado').Update('Desconectado')
         server_sock.close()
-
-
+    if eventos == 'Sair':
+        janela.Close()
 
 
 
