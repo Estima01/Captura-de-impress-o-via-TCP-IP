@@ -1,0 +1,37 @@
+t
+teste impressao cabecalho
+        ================================
+                RETIRADA NO LOCAL
+        ================================
+                16/03/2023 09:59
+                    ca-teste
+------------------------------------------------
+Pedido 195
+------------------------------------------------
+Itens: 
+(1) Calabresa acebolada                 R$ 22,90
+   (1) No quero Talheres                 R$ 0,00
+   (1) No quero Tempero                  R$ 0,00
+                        
+------------------------------------------------
+Cliente:
+Cliente: Teste
+Telefone: (11) 1 1111-1111
+                        
+Entrega: Vem buscar para levar
+                        
+------------------------------------------------
+Pagamento:
+Forma de Pagamento: Dinheiro
+                        
+Subtotal:                               R$ 22,90
+Total:                                  R$ 22,90
+                        
+Troco para:                          Nao precisa
+                        
+------------------------------------------------
+                        
+                      teste
+              Powered By: Anota AI
+            Acesse: https://anota.ai!!
+dV

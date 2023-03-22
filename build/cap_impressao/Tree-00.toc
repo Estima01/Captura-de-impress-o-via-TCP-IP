@@ -1,6 +1,0 @@
-('C:\\Users\\FS '
- 'RENTAL\\Desktop\\Captura-de-impress-o-via-TCP-IP\\build\\cap_impressao\\pybluez-0.30-py3.10-win-amd64.egg',
- None,
- {'*.pyd', '*.py', '*.pyw', 'EGG-INFO', '*.pyc', '*.cp310-win_amd64.pyd'},
- 'DATA',
- [])
